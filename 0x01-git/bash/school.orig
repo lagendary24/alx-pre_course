@@ -1,6 +1,6 @@
 #!/bin/bash
-HEAD
+<<<<<<< HEAD
 i love ALX
-
+=======
 i love alx indeed
-main
+>>>>>>> main
