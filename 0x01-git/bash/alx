@@ -1,5 +1,5 @@
 #!/bin/bash
  HEAD
 echo 'i love alx!'
-echo 'ALX school'
+echo 'ALX school is cool'
 update_script
