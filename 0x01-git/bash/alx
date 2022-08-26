@@ -1,9 +1,5 @@
 #!/bin/bash
  HEAD
-echo 'ALX school is my school'
-
- HEAD
-echo 'i love alx!'
-echo 'ALX school is cool'
+echo GREAT MAN
 update_script
  main
